@@ -4,7 +4,7 @@
 // thingiverse:http://www.thingiverse.com/thing:25617
 //
 // For more information:
-// htto://blog.think3dprin3d.com/Panelolu2
+// http://blog.think3dprint3d.com/2013/02/panelolu2.html
 //
 // by Tony Lock
 // GNU GPL v3
