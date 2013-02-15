@@ -6,7 +6,7 @@ An I2C control solution for Sanguinololu, Melzi and more
 by tony@think3dprint3d.com
 
 see
-http://blog.think3dprint3.com/Panelolu2
+http://blog.think3dprint3.com/panelolu2
 for details
 
 GPV V3
