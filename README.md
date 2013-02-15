@@ -13,6 +13,8 @@ GPV V3
 
 Contents:
 
-- Eagle files for the Panelolu2 circuit board
+- Eagle files for the Panelolu2 circuit board.
+
+- Eagle files for the Sanguinololu and Melzi expansion header boards. 
 
 - SCAD files for the case (note still a work in progress)
