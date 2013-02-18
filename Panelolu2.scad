@@ -22,7 +22,7 @@ include <bitmap_32.scad>;
 ///////////////////////////////////////////////////////////
 //front, back or legs
 ///////////////////////////////////////////////////////////
-side=1; //1 = front, -1 = back  2= legs  0=assembly model
+side=-1; //1 = front, -1 = back  2= legs  0=assembly model
 ///////////////////////////////////////////////////////////
 
 // Bed cube for layout
@@ -41,7 +41,7 @@ clearance=1.2;
 wall_width=1.6; //minimum wall width //should be a multiple of your extruded dia
 layer_height=0.2;
 //LCD screen
-lcd_scrn_w=97+clearance;
+lcd_scrn_w=98+clearance;
 lcd_scrn_h=39.8+clearance;
 lcd_scrn_z=9.4;
 
@@ -98,9 +98,9 @@ reset_offset_y=11.1;
 
 //contrast and brightness holes
 cb_dia=4;
-con_x=65.9;
+con_x=66.7;
 con_y=17.4;
-bri_x=55.8;
+bri_x=56.6;
 bri_y=17.4;
 //headers
 //lcd connection header
