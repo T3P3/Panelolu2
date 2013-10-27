@@ -9,7 +9,7 @@ see
 http://blog.think3dprint3d.com/2013/02/panelolu2.html
 for details
 
-GPV V3
+GPL V3
 
 Contents:
 
